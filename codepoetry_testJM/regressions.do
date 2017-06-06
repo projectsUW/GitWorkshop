@@ -7,3 +7,4 @@ sysuse auto
 reg price mpg
 
 *comment
+*comment
